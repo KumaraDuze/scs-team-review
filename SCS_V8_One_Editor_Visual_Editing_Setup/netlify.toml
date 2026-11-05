@@ -1,0 +1,4 @@
+[build]
+  publish = "."
+
+# This SCS review site intentionally has no build command.
