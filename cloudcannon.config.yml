@@ -1,0 +1,11 @@
+paths:
+  static: ''
+  uploads: uploads
+timezone: America/Belize
+markdown:
+  engine: commonmark
+  options: {}
+collections_config:
+  scs_v8_one_editor_visual_editing_setup:
+    path: SCS_V8_One_Editor_Visual_Editing_Setup
+    icon: phonelink_setup
