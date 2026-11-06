@@ -1,0 +1,15 @@
+source: /
+collections_config:
+  site_copy:
+    path: .
+    glob:
+      - index.html
+    name: SCS Website Copy
+    icon: wysiwyg
+    url: /
+    description: Edit approved SCS website text without changing its layout or navigation.
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+    _enabled_editors:
+      - visual
